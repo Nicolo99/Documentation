@@ -1,4 +1,4 @@
-# List of Programs to Convert
+| Bot Framework Channel Emulator |  |  |  | | | | ||# List of Programs to Convert
 This is the list of applications that have to be converted in UWP using the Desktop App Converter
 
 | Program | Link Original Version Repo | Link UWP Version Repo | License |Dial Support | Live Tiles Support | Notifications Support | Cortana Support | Management  |
@@ -24,7 +24,7 @@ This is the list of applications that have to be converted in UWP using the Desk
 | Opera |  |  |  | | | | ||
 | InkScape |  | https://github.com/UWP-Open-Source-Community/InkscapeUWP |  | | | | ||
 | Bot Framework Channel Emulator |  |  |  | | | | ||
-| ExeToMSI|||||||||
+| GeoGebra 6|||||||||
 
 
 
