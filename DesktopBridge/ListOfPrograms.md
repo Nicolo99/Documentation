@@ -3,6 +3,7 @@ This is the list of applications that have to be converted in UWP using the Desk
 
 | Program | Link Original Version Repo | Link UWP Version Repo | License |Dial Support | Live Tiles Support | Notifications Support | Cortana Support | Management  |
 |----------|-------------|------|--------|------|--------|--------|----|---|
+| GeoGebra 6 |  |  |  | | | |||
 | Atom | https://github.com/atom/atom | | MIT  | | | |||
 | Mixxx | https://github.com/mixxxdj/mixxx |  | | | | |||
 | Regard 3D | https://github.com/rhiestan/Regard3D | https://github.com/UWP-Open-Source-Community/REGARD3D | | | | |||
